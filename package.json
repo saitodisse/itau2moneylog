@@ -1,0 +1,28 @@
+{
+  "name": "itau-copy-paste-to-moneylog",
+  "version": "0.1.0",
+  "description": "convet itau copy paste 'extrato' to moneylog",
+  "main": "index.js",
+  "bin": {
+    "convert-itau-extrato-simples": "./bin/convert-itau-extrato-simples.js",
+    "convert-itau-por-periodo": "./bin/convert-itau-por-periodo.js"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saitodisse/itau-copy-paste-to-moneylog.git"
+  },
+  "author": "saitodisse",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "file-async": "^0.1.1",
+    "gulp": "^3.9.0",
+    "ramda": "^0.14.0",
+    "source-map-support": "^0.3.1"
+  },
+  "devDependencies": {
+    "azk-dev": "0.0.15"
+  }
+}

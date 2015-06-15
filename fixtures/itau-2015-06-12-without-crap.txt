@@ -1,0 +1,32 @@
+04/05 			INT TELEMAR OI 00000       [Visualizar cheque compensado.] 		290,28 	-
+04/05 			CXE TEF 0000.00000-7       [Visualizar cheque compensado.] 	585 	225,00
+04/05 			IOF       [Visualizar cheque compensado.] 		29,98 	-
+05/05 			TBI 2000.00000-7 C/C       [Visualizar cheque compensado.] 		800,00
+05/05 			TAR IOP MENS 04/25       [Visualizar cheque compensado.] 	7788 	55,50 	-
+07/05 			ELECTRONXXX       [Visualizar cheque compensado.] 	9222 	27,40 	-
+08/05 			CEP/JUROS       [Visualizar cheque compensado.] 		605,25 	-
+22/05 			INT ELET.PAULO 0000       [Visualizar cheque compensado.] 		247,69 	-
+22/05 			CARTAO PERSONNALITE       [Visualizar cheque compensado.] 	7788 	2.544,02 	-
+22/05 			TBI 2000.00000-7 C/C       [Visualizar cheque compensado.] 		950,00
+25/05 			INT COMGAS 0000       [Visualizar cheque compensado.] 		50,48 	-
+25/05 			INT NET 0000       [Visualizar cheque compensado.] 		202,54 	-
+25/05 			ELETROPAULO 0000       [Visualizar cheque compensado.] 	7788 	74,57 	-
+28/05 			CXE 000000 SAQUE       [Visualizar cheque compensado.] 	2958 	500,00 	-
+28/05 			CXE 000000 SAQUE       [Visualizar cheque compensado.] 	2958 	280,00 	-
+28/05 			ELECTRONXXX       [Visualizar cheque compensado.] 	9222 	26,57 	-
+28/05 			ELECTRONXXX NA       [Visualizar cheque compensado.] 	9222 	22,50 	-
+20/05 	 D 		INT PAG TIT BANCO 0000   [Débito a compensar]     [Visualizar cheque compensado.] 		456,27 	-
+20/05 	 D 		INT PAG TIT BANCO 0000   [Débito a compensar]     [Visualizar cheque compensado.] 		584,48 	-
+20/05 	 D 		DOC INT 0000 0000   [Débito a compensar]     [Visualizar cheque compensado.] 		200,00 	-
+20/05 	 D 		DOC INT 0000 0000   [Débito a compensar]     [Visualizar cheque compensado.] 		200,00 	-
+20/05 			DEVDOC0000 20/05 MOT57       [Visualizar cheque compensado.] 		200,00
+22/05 			TBI 2000.00000-7 C/C       [Visualizar cheque compensado.] 		2.000,00
+22/05 			TBI 2000.00000-7 C/C       [Visualizar cheque compensado.] 		2.000,00
+25/05 	 D 		INT PAG TIT BANCO 000   [Débito a compensar]     [Visualizar cheque compensado.] 		252,40 	-
+25/05 			ELECTRONXXX       [Visualizar cheque compensado.] 	9222 	0950 	-
+27/05 			INT TELEMAR OI 000       [Visualizar cheque compensado.] 		285,20 	-
+27/05 			TBI 2000.00000-7 C/C       [Visualizar cheque compensado.] 		790,00
+28/05 			ELECTRONXXX TORRA       [Visualizar cheque compensado.] 	9222 	24,99 	-
+28/05 			ELECTRONXXX TORRA       [Visualizar cheque compensado.] 	9222 	558,87 	-
+28/05 			TBI 000.000-000/000       [Visualizar cheque compensado.] 		25,00
+28/05 			TBI 000.000000/000       [Visualizar cheque compensado.] 		560,00

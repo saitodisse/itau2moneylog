@@ -1,0 +1,10 @@
+node_modules/
+fixtures/
+script/
+src/
+spec/
+lib/spec/
+.travis.yml
+gulpfile.js
+.jscsrc
+.jshintrc

@@ -18,6 +18,7 @@
   "author": "saitodisse",
   "license": "Apache-2.0",
   "dependencies": {
+    "docopt": "^0.6.2",
     "file-async": "^0.1.1",
     "gulp": "^3.9.0",
     "ramda": "^0.14.0",

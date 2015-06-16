@@ -1,0 +1,11 @@
+Converte extrato do Itau por simples 'copy and paste' num arquivo texto.
+
+Usage:
+  converter-itau simples <paste_path>
+  converter-itau periodo <paste_path>
+  converter-itau -h | --help
+  converter-itau --version
+
+Options:
+  -h --help     Show this screen.
+  --version     Show version.

@@ -1,7 +1,7 @@
 {
   "name": "itau2moneylog",
   "version": "0.2.5",
-  "description": "converts 'extrato por periodo' to moneylog format",
+  "description": "Converts Itau 'extrato por periodo' to moneylog format",
   "main": "",
   "bin": {
     "itau2moneylog": "./bin/itau2moneylog.js"

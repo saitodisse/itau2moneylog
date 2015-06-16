@@ -3,23 +3,23 @@ itau2moneylog
 
 Helps to convert your itau 'extrato' to moneylog-beta's format (http://aurelio.net/moneylog/beta/)
 
-- this tool will work well with Firefox
-- works with my 'conta personalite', tell me if works with other Itaú types
-- you have to use "por periodo" on Itaú web-site
-- not tested on windows or Mac
+----------------
 
 #### Install
 
-----------------
 
 ```sh
 npm install -g itau2moneylog
 ```
 
-```sh
-# install nodemon to make the process easier
-npm install -g nodemon
-```
+----------------
+
+#### Attention
+
+- this tool will work well with Firefox
+- works with my 'conta personalite', tell me if works with other Itaú types
+- you have to use "por periodo" on Itaú web-site
+- not tested on windows or Mac
 
 ----------------
 
@@ -36,6 +36,8 @@ itau2moneylog data-pasted.txt
 When you save the moneylog data is appended.
 
 ```sh
+# install nodemon to make the process easier
+npm install -g nodemon
 nodemon -q -e 'txt' itau2moneylog periodo paste-data.txt >> ../moneylog-beta/txt/dados.txt
 ```
 

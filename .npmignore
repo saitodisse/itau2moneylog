@@ -9,3 +9,4 @@ paste-data.txt
 script/
 spec/
 src/
+.npm-debug.log

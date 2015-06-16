@@ -1,8 +1,8 @@
 {
-  "name": "itau-copy-paste-to-moneylog",
-  "version": "0.1.0",
-  "description": "convet itau copy paste 'extrato' to moneylog",
-  "main": "index.js",
+  "name": "itau2moneylog",
+  "version": "0.2.0",
+  "description": "converts 'extrato por periodo' to moneylog format",
+  "main": "",
   "bin": {
     "convert-itau-extrato-simples": "./bin/convert-itau-extrato-simples.js",
     "convert-itau-por-periodo": "./bin/convert-itau-por-periodo.js"

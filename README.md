@@ -1,18 +1,19 @@
-Itaú copy-and-paste converter to moneylog
+itau2moneylog
 ==========================
 
-Helps to convert your itau 'extrato' to moneylog-beta format (http://aurelio.net/moneylog/beta/)
+Helps to convert your itau 'extrato' to moneylog-beta's format (http://aurelio.net/moneylog/beta/)
 
 - this tool will work well with Firefox
+- works with my 'conta personalite', tell me if works with other Itaú types
 - you have to use "por periodo" on Itaú web-site
-- not tested on windows
+- not tested on windows or Mac
 
 #### Install
 
 ----------------
 
 ```sh
-npm install -g itau-copy-paste-to-moneylog
+npm install -g itau2moneylog
 ```
 
 ```sh
@@ -27,7 +28,7 @@ npm install -g nodemon
 ###### print converted 'itaú extrato' on screen
 
 ```sh
-converter-itau.js data-pasted.txt
+itau2moneylog data-pasted.txt
 ```
 
 ###### smart usage with nodemon
@@ -35,7 +36,7 @@ converter-itau.js data-pasted.txt
 When you save the moneylog data is appended.
 
 ```sh
-nodemon -q -e 'txt' bin/converter-itau.js periodo paste-data.txt >> ../moneylog-beta/txt/dados.txt
+nodemon -q -e 'txt' itau2moneylog periodo paste-data.txt >> ../moneylog-beta/txt/dados.txt
 ```
 
 You can use `save-text-to-file` firefox add-on (https://addons.mozilla.org/EN-uS/firefox/addon/save-text-to-file/?src=userprofile).

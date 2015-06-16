@@ -1,6 +1,6 @@
 {
   "name": "itau2moneylog",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "converts 'extrato por periodo' to moneylog format",
   "main": "",
   "bin": {

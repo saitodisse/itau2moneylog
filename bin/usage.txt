@@ -1,10 +1,9 @@
 Converte extrato do Itau por simples 'copy and paste' num arquivo texto.
 
 Usage:
-  converter-itau simples <paste_path>
-  converter-itau periodo <paste_path>
-  converter-itau -h | --help
-  converter-itau --version
+  itau2moneylog <paste_file_path>
+  itau2moneylog -h | --help
+  itau2moneylog --version
 
 Options:
   -h --help     Show this screen.

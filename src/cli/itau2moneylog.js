@@ -1,4 +1,3 @@
-// import ConvertFileSimples from '../extrato-simples/convert-file';
 import ConvertFilePeriodo from '../periodo-especifico/convert-file';
 
 /// origin_file_path

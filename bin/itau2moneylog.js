@@ -13,9 +13,9 @@ var result = docopt(doc, {
     version: '0.1.0'
   });
 
-var ConvertItauCli = require('../lib/src/cli/convert-itau-cli');
+var ConvertItauCli = require('../lib/src/cli/itau2moneylog');
 var cli = new ConvertItauCli({
-  paste_data_path: result['<paste_path>']
+  paste_data_path: result['<paste_file_path>']
 });
 
 cli.convert();

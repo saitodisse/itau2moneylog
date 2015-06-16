@@ -4,8 +4,7 @@
   "description": "converts 'extrato por periodo' to moneylog format",
   "main": "",
   "bin": {
-    "convert-itau-extrato-simples": "./bin/convert-itau-extrato-simples.js",
-    "convert-itau-por-periodo": "./bin/convert-itau-por-periodo.js"
+    "itau2moneylog": "./bin/itau2moneylog.js"
   },
   "scripts": {
     "test": "gulp test",

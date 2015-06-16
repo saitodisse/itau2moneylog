@@ -17,8 +17,16 @@ npm install -g itau-copy-paste-to-moneylog
 #### Usage example
 
 ```sh
-convert-itau-por-periodo     -i data-pasted.txt --append txt/dados.txt
-convert-itau-extrato-simples -i data-pasted.txt --append txt/dados.txt
+converter-itau.js periodo data-pasted.txt
+converter-itau.js simples data-pasted.txt
+```
+
+###### smart usage with nodemon
+
+When you save the moneylog data is appended
+
+```sh
+nodemon -q -e 'txt' bin/converter-itau.js periodo paste-data.txt >> ../moneylog-beta/txt/dados.txt
 ```
 
 ----------------

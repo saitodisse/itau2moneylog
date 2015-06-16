@@ -1,7 +1,7 @@
-import h from '../spec_helper';
-import ConvertItauLine from '../../src/extrato-simples/convert-itau-line';
+import h from '../../spec_helper';
+import ConvertItauLine from '../../../src/extrato-simples/convert-itau-line';
 
-describe('Extrato Simples:', function () {
+describe('from Google Chrome: Extrato Simples:', function () {
 
   describe('convert Itau line', function () {
     var convertItauLine;

@@ -1,0 +1,119 @@
+
+
+
+
+    Home
+    |
+    Conta Corrente
+    |
+    Poupança
+    |
+    Investimentos
+    |
+    Pagamentos
+    |
+    Crédito
+    |
+    Cartões
+    |
+    Seguros
+    |
+    Transferência, DOC e TED
+    |
+    Previdência
+    |
+    Conveniência
+    |
+    Experiência Personnalité
+    |
+    Mais Produtos
+    |
+    Férias
+
+
+Home > Conta Corrente > Saldo e Extrato > Extrato
+
+
+
+Extrato de Conta Corrente
+
+
+Filtrar por período:
+
+
+
+Lançamentos (01/01/2015 a 16/06/2015)
+
+    2015
+
+    JAN FEV MAR ABR MAI JUN JUL AGO SET OUT NOV DEZ
+
+
+Junho - 2015
+Data 	  	  	Lançamento 	Ag/Origem 	Valor (R$) 	  	Saldo (R$)
+28/05 			SALDO ANTERIOR       [Visualizar cheque compensado.] 				0 	-
+01/06 	 D 		INT PAG TIT BANCO 033   [Débito a compensar]     [Visualizar cheque compensado.] 		123,46 	-
+01/06 			IOF       [Visualizar cheque compensado.] 		123,99 	-
+01/06 			SALDO DO DIA       [Visualizar cheque compensado.] 				0,04 	-
+08/06 			CEP/JUROS       [Visualizar cheque compensado.] 		123,92 	-
+08/06 			TBI 123       [Visualizar cheque compensado.] 		123,58
+08/06 			SALDO DO DIA       [Visualizar cheque compensado.] 				0,38 	-
+09/06 			CARTAO PERSONNALITE       [Visualizar cheque compensado.] 	0000 	123,03 	-
+09/06 			SALDO DO DIA       [Visualizar cheque compensado.] 				0,41 	-
+10/06 	 D 		INT PAG TIT BANCO 237   [Débito a compensar]     [Visualizar cheque compensado.] 		123,02 	-
+10/06 			INT ELET.PAULO 123       [Visualizar cheque compensado.] 		123,95 	-
+10/06 			INT NET 123       [Visualizar cheque compensado.] 		123,46 	-
+10/06 			SALDO DO DIA       [Visualizar cheque compensado.] 				0,84 	-
+11/06 			INT COMGAS 123       [Visualizar cheque compensado.] 		123,72 	-
+11/06 			ELETROPAULO 123       [Visualizar cheque compensado.] 	0000 	123,34 	-
+11/06 			SALDO DO DIA       [Visualizar cheque compensado.] 				123,90 	-
+12/06 			INT MULTA SP 123       [Visualizar cheque compensado.] 		123,32 	-
+12/06 			SALDO DO DIA       [Visualizar cheque compensado.] 				0,22 	-
+15/06 			TBI 123       [Visualizar cheque compensado.] 		1,00 	-
+15/06 			TBI 123       [Visualizar cheque compensado.] 		1,00 	-
+15/06 			CREDIARIO ITAU 123       [Visualizar cheque compensado.] 		2,00
+16/06 			SALDO DO DIA       				0,78
+
+
+< Mês Anterior
+
+
+O que deseja fazer:
+  	   Imprimir 	   Salvar em PDF 	   Salvar em Excel
+Aviso
+- Os saldos acima são baseados nas informações disponíveis até esse instante e poderão ser alterados a qualquer momento em função de novos lançamentos.
+- Solicite ao seu gerente a última versão das Condições Gerais de sua Multiconta Personnalité e dos Serviços em sua agência.
+
+
+
+
+
+
+
+
+
+Opções
+
+Calculadora Calculadora
+
+Descrição lançamentos Descrição dos lançamentos
+
+Imprimir
+
+Salvar em PDF
+
+Salvar em Excel
+
+Salvar em outros formatos
+
+Ir para
+
+Comprovantes
+
+Fatura do Cartão de Crédito
+
+Extrato anterior a 10 anos
+
+Fale com o Itaú Personnalité
+Itaú Unibanco S.A.     |     Atendimento     |     Segurança     |     Mapa do site
+     |      Acompanhe: Acompanhe o Personnalité no Facebook  Acompanhe o Itaú no Twitter  Acompanhe o Itaú via RSS  Acompanhe o Itaú no Youtube

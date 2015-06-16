@@ -1,14 +1,14 @@
-import h from '../spec_helper';
-import ConvertFile from '../../src/extrato-simples/convert-file';
+import h from '../../spec_helper';
+import ConvertFile from '../../../src/extrato-simples/convert-file';
 
-describe('Extrato Simples:', function () {
+describe('from Google Chrome: Extrato Simples:', function () {
 
   describe('ConvertFile:', function() {
 
     var convertFile;
 
     before(function () {
-      var FIXTURE_PATH = './fixtures/itau-2015-06-12.txt';
+      var FIXTURE_PATH = './fixtures/from-google/itau-2015-06-12.txt';
       convertFile = new ConvertFile({
         origin_file_path: FIXTURE_PATH
       });

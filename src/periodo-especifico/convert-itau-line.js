@@ -28,7 +28,7 @@ module.exports = class ConvertItauLine {
 
   // https://regex101.com/r/dS6pQ0/5
   _getMoneyValue() {
-    var MONEY_REGEX = /^.*?((([0-9]\d{0,2}(\.\d{3})*|([0-9]\d*))(\,\d{2}))(-)?)?\s+((([0-9]\d{0,2}(\.\d{3})*|([0-9]\d*))(\,\d{2}))(-)?)$/g;
+    var MONEY_REGEX = /^.*?((([0-9]\d{0,2}(\.\d{3})*|([0-9]\d*))(\,\d{2}))\s*(-)?\s*)?\s+((([0-9]\d{0,2}(\.\d{3})*|([0-9]\d*))(\,\d{2}))\s*(-)?\s*)$/g;
     var match = regexTools.matchFirstRegex(this.line, MONEY_REGEX);
 
     if (!match || match.length === 0) {

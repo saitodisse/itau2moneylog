@@ -1,7 +1,7 @@
-import h from '../spec_helper';
-import ConvertItauLine from '../../src/periodo-especifico/convert-itau-line';
+import h from '../../spec_helper';
+import ConvertItauLine from '../../../src/periodo-especifico/convert-itau-line';
 
-describe('Periodo Especifico:', function () {
+describe('from Google Chrome: Periodo Especifico:', function () {
   describe('convert Itau line', function () {
     var convertItauLine;
     beforeEach(function () {

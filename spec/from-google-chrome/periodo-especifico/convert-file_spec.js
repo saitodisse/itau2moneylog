@@ -1,13 +1,13 @@
-import h from '../spec_helper';
-import ConvertFile from '../../src/periodo-especifico/convert-file';
+import h from '../../spec_helper';
+import ConvertFile from '../../../src/periodo-especifico/convert-file';
 
-describe('Periodo Especifico:', function () {
+describe('from Google Chrome: Periodo Especifico:', function () {
   describe('ConvertFile:', function() {
 
     var convertFile;
 
     before(function () {
-      var FIXTURE_PATH = './fixtures/itau-periodo-especifico-2015.txt';
+      var FIXTURE_PATH = './fixtures/from-google/itau-periodo-especifico-2015.txt';
       convertFile = new ConvertFile({
         origin_file_path: FIXTURE_PATH
       });

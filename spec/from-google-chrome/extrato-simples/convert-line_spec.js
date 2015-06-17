@@ -19,7 +19,8 @@ describe('from Google Chrome: Extrato Simples:', function () {
     });
 
     it('should remove date from line', function () {
-      h.expect(convertItauLine._removeDate(convertItauLine.line)).to.eql('CARTAO PERSONNALITE       [Visualizar cheque compensado.] \t7788 \t2.544,02 \t-');
+      h.expect(convertItauLine._removeDate(convertItauLine.line))
+      .to.eql('CARTAO PERSONNALITE       [Visualizar cheque compensado.] \t7788 \t2.544,02 \t-');
     });
 
     it('should get money value', function () {
@@ -29,7 +30,8 @@ describe('from Google Chrome: Extrato Simples:', function () {
     });
 
     it('should remove money_value from line', function () {
-      h.expect(convertItauLine._removeMoneyValue(convertItauLine.line)).to.eql('22/05 \t\t\tCARTAO PERSONNALITE       [Visualizar cheque compensado.] \t7788');
+      h.expect(convertItauLine._removeMoneyValue(convertItauLine.line))
+      .to.eql('22/05 \t\t\tCARTAO PERSONNALITE       [Visualizar cheque compensado.] \t7788');
     });
 
     it('should get description', function () {
@@ -64,7 +66,8 @@ describe('from Google Chrome: Extrato Simples:', function () {
     it('should convert to moneylog format 4', function () {
       convertItauLine = new ConvertItauLine({
         year: 2025,
-        line: '20/05 \t D \t\tINT PAG TIT BANCO 0000   [Débito a compensar]     [Visualizar cheque compensado.] \t\t456,27 \t-',
+        line: ['20/05 \t D \t\tINT PAG TIT BANCO 0000   [Débito a compensar]',
+               '     [Visualizar cheque compensado.] \t\t456,27 \t-'].join(''),
       });
       h.expect(convertItauLine.convert()).to.eql('2025-05-20\t-456,27\td int pag tit banco 0000');
     });

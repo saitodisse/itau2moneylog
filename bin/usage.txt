@@ -1,4 +1,4 @@
-Converte extrato do Itau por simples 'copy and paste' num arquivo texto.
+Converts 'extrato por periodo' from Itau to moneylog format.
 
 Usage:
   itau2moneylog <paste_file_path>
